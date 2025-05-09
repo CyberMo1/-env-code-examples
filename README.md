@@ -1,3 +1,3 @@
 Environmental Code Examples
 
-This repository hold environmental codes.
+This repository holds environmental codes.
